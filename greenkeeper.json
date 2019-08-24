@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bower_components/angular-route/package.json",
+        "bower_components/angular/package.json"
+      ]
+    }
+  }
+}
