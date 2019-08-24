@@ -1,6 +1,9 @@
 TWEETFUL APPLICATION PART OF THE INTRODUCTION COURSES AT THINKFUL
 
 # Tweetful-Angular
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/skdigital/tweetful-angular.svg)](https://greenkeeper.io/)
+
 Introducing Angular JS Unit 1
 
 The client wants you to start with the “About Tweetful” page so that new users can learn about the new service.
